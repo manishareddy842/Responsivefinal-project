@@ -1,0 +1,92 @@
+h2{
+font:Poppins;
+font-size: 36px;
+font-style: Bold;
+}
+h1{
+  font: "Playfair Display"; 
+  font-size: 96px;
+  font-style: Bold;
+}
+.some{
+   text-align: center;
+   background-color: #F9F7FE;
+   padding: 160px;
+}
+p{
+font: Poppins;
+font-size: 24px;
+font-style: Regular;
+}
+.btn btn-primary{
+   padding:18px,30px,18px,30px ;
+   font:Poppins ;
+   font-size: 18px;
+   border-radius: 4px;
+}
+h4{
+  font:Poppins ; 
+  font-size: 18px;
+  font-style: Regular;
+  color:#272142;
+  text-align: center;
+
+}
+.appTo{
+   font: Playfair Display;
+   font-size: 64px;
+   font-style: Bold;
+}
+.original{
+   color:rgba(39, 33, 66, 0.7)sss;
+   font:Poppins;
+   font-size: 16px;
+   font-style: Regular;
+}
+@media screen (max-width:900px){
+   
+}
+.project{
+   padding: 50px 20px;
+}
+.aboutsection h1{
+  font:Playfair Display ; 
+  font-size: 64px;
+  font-style: Bold;
+  line-height: 85px;
+  color: #000000;
+}
+.aboutsection  h4{
+   font: Poppins;
+   font-size: 18px;
+   font-style: Bold;
+   line-height: 27px;
+   text-align: left;
+   color: #272142;
+
+}
+.aboutsection{
+   padding: 140px 0px;
+}
+.aboutsection img{
+   border-radius: 10px;
+}
+.aboutsection p{
+   font:Poppins ;
+   font-size: 16px;
+   font-style: Regular;
+   color: rgba(39, 33, 66, 0.7);
+   line-height: 30px;
+}
+.space{
+   padding: 0px 40px;
+}
+.conatctSection h1{
+   padding: 60px 50px;
+   text-align: left;
+   font:Playfair Display ;
+   font-size: 64px;
+   line-height: 85.31px;
+   font-style: Bold;
+   
+}
